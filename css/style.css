@@ -1,0 +1,66 @@
+body{
+}
+.tophead {
+    padding: 0px;
+    border-bottom: 1px solid #ccc;
+}
+.toplft{
+    width: 160px;
+    display: block;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc; 
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+}
+.top-num{
+    width: 140px;
+    float: right;
+    border-right: 1px solid #ccc;
+    
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+}
+.soc{
+    width: 140px;
+    float: right;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+}
+.soc ul{
+    margin: 0px;
+    padding: 0px;
+}
+.soc ul li {
+    list-style: none;
+    display: block;
+    float: left;
+    padding: 0px 10px 0px 10px;
+}
+.soc ul li a {
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+.padr {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+a.navbar-brand{
+    color: #7F00ff;
+}
+a.navbar-brand:hover{
+    color:#7f00ff !important;
+}
+.navbar-inverse .navbar-nav > li > a{
+    color: #000;  
+}
+.navbar-inverse .navbar-nav > li >a:focus,
+.navbar-inverse .navbar-nav > li >a:hover{
+    color: #7f00ff;
+    background-color: transparent;
+}
+.navbar-inverse .navbar-nav >
+
+
